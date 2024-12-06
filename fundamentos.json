@@ -1,0 +1,18 @@
+{
+    "ação de cobrança": {
+        "artigos": [
+            "Art. 389 do Código Civil: Não cumprida a obrigação, responde o devedor por perdas e danos, mais juros e atualização monetária."
+        ],
+        "jurisprudencias": [
+            "STJ - REsp 123456/RS: O inadimplemento contratual gera o dever de reparação nos termos do art. 389 do Código Civil."
+        ]
+    },
+    "ação de indenização": {
+        "artigos": [
+            "Art. 927 do Código Civil: Aquele que, por ato ilícito, causar dano a outrem, fica obrigado a repará-lo."
+        ],
+        "jurisprudencias": [
+            "STJ - REsp 654321/SP: O dano moral é presumido em casos de ofensa à honra objetiva."
+        ]
+    }
+}

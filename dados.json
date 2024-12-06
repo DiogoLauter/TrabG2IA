@@ -1,0 +1,27 @@
+[
+    {
+        "tipo_acao": "Ação de Cobrança",
+        "descricao": "atraso de pagamento em contrato de prestação de serviços",
+        "fundamentos": ["Art. 389 CC", "Art. 395 CC", "Súmula 54 STJ"]
+    },
+    {
+        "tipo_acao": "Ação de Danos Morais",
+        "descricao": "falha na prestação de serviço que causou dano moral",
+        "fundamentos": ["Art. 927 CC", "Art. 186 CC"]
+    },
+    {
+        "tipo_acao": "Ação de Despejo",
+        "descricao": "inadimplência no pagamento do aluguel por mais de três meses",
+        "fundamentos": ["Art. 59 da Lei do Inquilinato", "Art. 9 da Lei do Inquilinato"]
+    },
+    {
+        "tipo_acao": "Ação de Divórcio",
+        "descricao": "divórcio litigioso com disputa de guarda",
+        "fundamentos": ["Art. 226 CF", "Art. 1.634 CC"]
+    },
+    {
+        "tipo_acao": "Ação de Execução",
+        "descricao": "cobrança judicial de dívida garantida por título executivo",
+        "fundamentos": ["Art. 783 CPC", "Art. 784 CPC"]
+    }
+]
